@@ -8,3 +8,5 @@ Muestra algunos detalles de la inflación de Venezuela según El Observatorio Ve
 ![Figure_3](https://github.com/user-attachments/assets/80aecf08-e7ad-4b00-99d1-6c533885aede)
 
 
+Fuentes:
+https://sumarium.info/2025/01/06/ovf-venezuela-registro-inflacion-de-85-en-2024/
